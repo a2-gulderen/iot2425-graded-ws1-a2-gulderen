@@ -4,7 +4,7 @@
 # chmod +x sync-fork.sh
 
 # Variables
-UPSTREAM_URL=""
+UPSTREAM_URL="https://github.com/uwe-scct/ufcfvk-15-2-internet-of-things-2425-iot2425-graded-ws1-iot-graded-ws-1"
 BRANCH="main"  
 
 # Add upstream remote if it doesn't exist
